@@ -1,0 +1,88 @@
+﻿season,team,outgoing,reason,date_left,incoming
+2526,Nott'm Forest,Nuno Espírito Santo,Sacked,2025-9-8,Ange Postecoglou
+2526,West Ham,Graham Potter,Sacked,2025-9-27,Nuno Espírito Santo
+2526,Nott'm Forest,Ange Postecoglou,Sacked,2025-10-18,Sean Dyche
+2526,Wolves,Vítor Pereira,Sacked,2025-11-2,Rob Edwards
+2526,Chelsea,Enzo Maresca,Resigned,2026-1-1,Liam Rosenior
+2526,Man United,Ruben Amorim,Sacked,2026-1-5,Michael Carrick
+2526,Tottenham,Thomas Frank,Sacked,2026-2-11,Igor Tudor
+2526,Nott'm Forest,Sean Dyche,Sacked,2026-2-12,Vítor Pereira
+2526,Tottenham,Igor Tudor,Mutual consent,2026-3-29,Roberto De Zerbi
+2526,Chelsea,Liam Rosenior,Sacked,2026-4-22,Calum McFarlane (interim)
+2526,Burnley,Scott Parker,Mutual consent,2026-4-30,Mike Jackson (interim)
+2425,Man United,Erik Ten Hag,Sacked,2024-10-28,Ruud van Nistelrooy
+2425,Leicester,Steve Cooper,Sacked,2024-11-24,Ben Dawson (interim)
+2425,Wolves,Gary O'Neil,Sacked,2024-12-15,Vítor Pereira
+2425,Southampton,Russell Martin,Sacked,2024-12-15,Simon Rusk (interim)
+2425,West Ham,Julen Lopetegui,Sacked,2025-1-8,Graham Potter
+2425,Everton,Sean Dyche,Sacked,2025-1-9,Leighton Baines (interim)
+2425,Southampton,Ivan Jurić,Mutual consent,2025-4-7,Simon Rusk (interim)
+2324,Sheffield United,Paul Heckingbottom,Sacked,2023-12-5,Chris Wilder
+2324,Nott'm Forest,Steve Cooper,Sacked,2023-12-19,Nuno Espírito Santo
+2324,Crystal Palace,Roy Hodgson,Resigned,2024-2-19,Oliver Glasner
+2223,Bournemouth,Scott Parker,Sacked,2022-8-30,Gary O'Neil
+2223,Chelsea,Thomas Tuchel,Sacked,2022-9-7,Graham Potter
+2223,Brighton,Graham Potter,Signed by Chelsea,2022-9-8,Roberto De Zerbi
+2223,Wolves,Bruno Lage,Sacked,2022-10-2,Steve Davis (interim)
+2223,Aston Villa,Steven Gerrard,Sacked,2022-10-20,Aaron Danks (interim)
+2223,Southampton,Ralph Hasenhüttl,Sacked,2022-11-7,Nathan Jones
+2223,Everton,Frank Lampard,Sacked,2023-1-23,Sean Dyche
+2223,Leeds,Jesse Marsch,Sacked,2023-2-6,Michael Skubala (interim)
+2223,Southampton,Nathan Jones,Sacked,2023-2-12,Rubén Sellés
+2223,Crystal Palace,Patrick Vieira,Sacked,2023-2-17,Paddy McCarthy (interim)
+2223,Tottenham,Antonio Conte,Mutual consent,2023-3-26,Cristian Stellini (interim)
+2223,Leicester,Brendan Rodgers,Mutual consent,2023-4-2,Adam Sadler (interim)
+2223,Chelsea,Graham Potter,Sacked,2023-4-2,Bruno Saltor (interim)
+2223,Tottenham,Cristian Stellini,Sacked,2023-4-24,Ryan Mason (interim)
+2223,Leeds,Javi Gracia,Sacked,2023-5-3,Sam Allardyce
+2122,Watford,Xisco Muñoz,Sacked,2021-10-3,Claudio Ranieri
+2122,Newcastle,Steve Bruce,Mutual consent,2021-10-20,Graeme Jones (interim)
+2122,Tottenham,Nuno Espírito Santo,Sacked,2021-11-1,Antonio Conte
+2122,Norwich,Daniel Farke,Sacked,2021-11-6,Dean Smith
+2122,Aston Villa,Dean Smith,Sacked,2021-11-7,Steven Gerrard
+2122,Man United,Ole Gunnar Solskjær,Sacked,2021-11-21,Michael Carrick (caretaker)
+2122,Everton,Rafael Benítez,Sacked,2022-1-16,Duncan Ferguson (caretaker)
+2122,Watford,Claudio Ranieri,Sacked,2022-1-24,Roy Hodgson
+2122,Leeds,Marcelo Bielsa,Sacked,2022-2-27,Jesse Marsch
+2122,Burnley,Sean Dyche,Sacked,2022-4-15,Mike Jackson (lead caretaker)
+2021,West Brom,Slaven Bilić,Sacked,2020-12-16,Sam Allardyce
+2021,Chelsea,Frank Lampard,Sacked,2021-1-25,Thomas Tuchel
+2021,Sheffield United,Chris Wilder,Sacked,2021-3-13,Paul Heckingbottom (interim)
+2021,Tottenham,José Mourinho,Sacked,2021-4-19,Ryan Mason (interim)
+1920,Watford,Javi Gracia,Sacked,2019-9-7,Quique Sánchez Flores
+1920,Tottenham,Mauricio Pochettino,Sacked,2019-11-19,José Mourinho
+1920,Arsenal,Unai Emery,Sacked,2019-11-29,Mikel Arteta
+1920,Watford,Quique Sánchez Flores,Sacked,2019-12-1,Nigel Pearson
+1920,Everton,Marco Silva,Sacked,2019-12-5,Carlo Ancelotti
+1920,West Ham,Manuel Pellegrini,Sacked,2019-12-28,David Moyes
+1920,Watford,Nigel Pearson,Sacked,2020-7-19,Hayden Mullins (interim)
+1819,Fulham,Slaviša Jokanović,Sacked,2018-11-14,Claudio Ranieri
+1819,Southampton,Mark Hughes,Sacked,2018-12-3,Ralph Hasenhüttl
+1819,Man United,José Mourinho,Sacked,2018-12-18,Ole Gunnar Solskjær
+1819,Huddersfield,David Wagner,Mutual consent,2019-1-14,Jan Siewert
+1819,Leicester,Claude Puel,Sacked,2019-2-24,Brendan Rodgers
+1819,Fulham,Claudio Ranieri,Sacked,2019-2-28,Scott Parker
+1718,Crystal Palace,Frank de Boer,Sacked,2017-9-11,Roy Hodgson
+1718,Leicester,Craig Shakespeare,Sacked,2017-10-17,Claude Puel
+1718,Everton,Ronald Koeman,Sacked,2017-10-23,Sam Allardyce
+1718,West Ham,Slaven Bilić,Sacked,2017-11-6,David Moyes
+1718,West Brom,Tony Pulis,Sacked,2017-11-20,Alan Pardew
+1718,Swansea,Paul Clement,Sacked,2017-12-20,Carlos Carvalhal
+1718,Stoke ,Mark Hughes,Sacked,2018-1-6,Paul Lambert
+1718,Watford,Marco Silva,Sacked,2018-1-21,Javi Gracia
+1718,Southampton,Mauricio Pellegrino,Sacked,2018-3-12,Mark Hughes
+1718,West Brom,Alan Pardew,Mutual consent,2018-4-2,Darren Moore (caretaker)
+1617,Swansea,Francesco Guidolin,Sacked,2016-10-3,Bob Bradley
+1617,Crystal Palace,Alan Pardew,Sacked,2016-12-22,Sam Allardyce
+1617,Swansea,Bob Bradley,Sacked,2016-12-27,Paul Clement
+1617,Hull,Mike Phelan,Sacked,2017-1-3,Marco Silva
+1617,Leicester,Claudio Ranieri,Sacked,2017-2-23,Craig Shakespeare
+1617,Middlesbrough,Aitor Karanka,Mutual consent,2017-3-16,Steve Agnew (caretaker)
+1516,Sunderland,Dick Advocaat,Resigned,2015-10-4,Sam Allardyce
+1516,Liverpool,Brendan Rodgers,Sacked,2015-10-4,Jürgen Klopp
+1516,Aston Villa,Tim Sherwood,Sacked,2015-10-25,Rémi Garde
+1516,Swansea,Garry Monk,Sacked,2015-12-9,Alan Curtis
+1516,Chelsea,José Mourinho,Sacked,2015-12-17,Guus Hiddink
+1516,Newcastle,Steve McClaren,Sacked,2016-3-11,Rafael Benítez
+1516,Aston Villa,Rémi Garde,Mutual consent,2016-3-29,Eric Black
+1516,Everton,Roberto Martínez,Sacked,2016-5-12,Joe Royle (caretakers)

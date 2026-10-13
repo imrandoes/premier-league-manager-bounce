@@ -46,7 +46,7 @@ I rebuilt the benchmark to match on recent form **and** club tier (big six vs ev
 | Big six | 1.68 | 1.70 | 12 |
 | Other clubs | 1.08 | 1.16 | 45 |
 
-Against this fairer benchmark (1.27 on average), 26 changes did better and 31 did worse, with big swings both ways. On average the difference is -0.07 points per game, which with 57 changes this varied is not distinguishable from zero.
+Against this fairer benchmark (1.27 on average), 26 changes did better and 31 did worse, with big swings both ways. On average the difference is -0.07 points per game ($p = 0.32$, 95% CI: -0.20 to +0.07). This rules out a large bounce above the benchmark, but with 57 changes we cannot distinguish this from zero or rule out a small effect either way.
 
 ## Caveats
 
@@ -66,7 +66,7 @@ Cleaning notes: column counts differ between seasons, one season uses two-digit 
 
 ## Tools & how to reproduce
 
-SQL in DuckDB (window functions, CTEs, an anti-join), Excel for compiling the manager changes, Tableau Public for the dashboard.
+SQL in DuckDB (window functions, CTEs, an anti-join), Python (pandas, matplotlib, SciPy) in `analysis.ipynb` for the t-test and distribution chart, Excel for compiling the manager changes, Tableau Public for the dashboard.
 
 ```bash
 mkdir -p data/raw && cd data/raw
@@ -78,3 +78,4 @@ duckdb pl.duckdb < queries.sql
 ```
 
 `queries.sql` rebuilds every table and result from the raw files, in 13 commented steps.
+`analysis.ipynb` (built in Google Colab) reproduces the headline numbers and the statistical test. To run it, upload `output/bounce_detail.csv` to Colab.
